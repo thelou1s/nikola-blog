@@ -25,7 +25,7 @@ SITE_URL = "http://theutopia.net/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://theutopia.net/"
 BLOG_EMAIL = "thelou1s@yahoo.com"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_DESCRIPTION = "" #"This is a demo site for Nikola."  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -1341,3 +1341,12 @@ GLOBAL_CONTEXT = {}
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+
+THEME = 'canterville'
+LOGO_URL = 'https://getnikola.com/assets/img/logo.svg'
+GLOBAL_CONTEXT = {
+        #'TWITTER_URL': 'https://twitter.com/thelou1s',
+        #'GITHUB_URL': 'https://github.com/thelou1s',
+        'BANNER_URL': '/assets/img/silk-road.jpg'
+}
