@@ -1,5 +1,5 @@
 .. title: Game of Thrones
-.. slug: my-first-nikola-title
+.. slug: my-second-nikola-title
 .. date: 2019-02-28 07:14:15 UTC
 .. tags:
 .. category:
